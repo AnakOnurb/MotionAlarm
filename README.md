@@ -1,4 +1,7 @@
 # Motion Alarm
+![License](https://img.shields.io/github/license/AnakOnurb/MotionAlarm)
+![Release stable](https://badgen.net/github/release/AnakOnurb/MotionAlarm/stable)
+
 NodeMCU-based Smart Motion Alarm - Integrated w/ Telegram Bot
 
 ## Libraries
